@@ -1,0 +1,83 @@
+@import url('reset.css');
+
+
+.wrapper{
+    width: 1000px; 
+    margin: 0px auto; 
+    border: 4px solid rgb(158, 157, 157);
+    padding: 15px;
+    background: rgb(214, 212, 212);
+}
+h1, caption
+ {
+    border: 3px solid blue;
+    margin: 10px;
+    color: blue;
+    background: rgb(158, 157, 157); 
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px;   
+}
+
+a{
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px; 
+}
+
+h2{
+    padding: 10px;
+    color: brown;
+    font-weight: 600; 
+    font-size: 25px;
+    line-height: 30px;
+}
+
+p {
+    text-align: justify; 
+    line-height: 24px; 
+    font-size: 20 px
+}
+
+.block_A, .block_C, .block_M {
+    border: 3px solid blue;
+    padding: 15px;   
+    margin: 100px;
+    text-align: center;
+    background: grey;
+}
+
+
+
+/* @import url('table.css'); */
+
+
+ .table_one, tr, td { 
+border: 3px solid black;
+padding: 70px;
+width: 100%;
+}
+ 
+.t_color_1 {
+background: gray;
+}
+
+.t_color_2{
+    background: rgb(96, 121, 7);
+}
+
+.t_color_3{
+background: rgb(10, 70, 10);
+}
+
+.t_color_4{
+    background: greenyellow;
+}
+
+.t_color_5{
+    background: orange;
+}
+
+.t_color_6{
+    background: blue;
+} 

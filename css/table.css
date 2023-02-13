@@ -1,0 +1,29 @@
+.table_one, tr, td {
+    border: 3px solid black;
+    padding: 70px;
+    width: 100%;
+    }
+     
+.t_color_1 {
+    background: gray;
+    }
+    
+.t_color_2{
+        background: rgb(96, 121, 7);
+    }
+    
+    .t_color_3{
+    background: rgb(10, 70, 10);
+    }
+    
+    .t_color_4{
+        background: greenyellow;
+    }
+    
+    .t_color_5{
+        background: orange;
+    }
+    
+    .t_color_6{
+        background: blue;
+    }
