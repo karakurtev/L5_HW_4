@@ -39,6 +39,10 @@ p {
     font-size: 20 px
 }
 
+.text_color {
+    color: brown;
+}
+
 .block_A, .block_C, .block_M {
     border: 3px solid blue;
     padding: 15px;   
