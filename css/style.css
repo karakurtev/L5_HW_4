@@ -43,16 +43,28 @@ p {
     color: brown;
 }
 
-.block_A, .block_C, .block_M {
+.block_A, .block_C, .block_M, .block_MC {
     border: 3px solid blue;
     padding: 15px;   
     margin: 100px;
     text-align: center;
-    background: grey;
 }
 
+.block_A{
+    background: red;
+}
 
+.block_C{
+    background: blue;
+}
 
+.block_M{
+    background: red;
+}
+
+.block_MC{
+    background: rgb(36, 158, 206);
+}
 /* @import url('table.css'); */
 
 
